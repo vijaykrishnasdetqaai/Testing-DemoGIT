@@ -16,3 +16,13 @@ What happens after push
 How PR validation works
 
 How deployment happens
+
+=======================
+How does Git integrate with CI/CD?
+
+Answer:
+
+Whenever code is pushed or PR is created, a CI pipeline automatically triggers via GitHub Actions or Jenkins. The pipeline checks out code, installs dependencies, runs tests, and validates build before allowing merge. After merge, CD pipeline deploys to staging or production based on branch strategy.
+
+That answer = 🔥 senior SDET level.
+=====================================
