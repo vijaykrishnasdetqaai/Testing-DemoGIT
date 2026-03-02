@@ -2,3 +2,17 @@ What is Git Merge?
 👉 Definition
 
 git merge combines two branches and creates a new merge commit.
+
+
+🚀 Git Workflow in CI/CD
+(Using Jenkins & GitHub Actions)
+
+We’ll understand:
+
+How Git triggers CI
+
+What happens after push
+
+How PR validation works
+
+How deployment happens
