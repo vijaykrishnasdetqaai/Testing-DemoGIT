@@ -1,0 +1,4 @@
+What is Git Merge?
+👉 Definition
+
+git merge combines two branches and creates a new merge commit.
